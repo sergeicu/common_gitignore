@@ -53,11 +53,3 @@ build/
 .DS_Store
 
 # specific to this repo 
-evaluate/archive/
-s20210714-eval-barbieri-real-data-all-subjects/logs/
-s20210505-eval-barbieri-real-data/s20210505-eval-barbieri-real-data/BARB_REALDATA*
-s20210505-eval-barbieri-real-data/log*
-s20210505-eval-barbieri-real-data/robustness_experiment/logs*
-s20210505-eval-barbieri-real-data/robustness_experiment/roar/log*
-s20210505-eval-barbieri-real-data/s20210505-eval-barbieri-real-data/logs/
-s20210505-eval-barbieri-real-data/s20210505-eval-barbieri-real-data/logs_old/
