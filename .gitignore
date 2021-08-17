@@ -4,6 +4,7 @@
 *.nii.gz 
 *.vtk
 *.dat 
+*.mat
 
 # general compression files
 *.zip
@@ -48,6 +49,10 @@ checkpoint
 
 # C/C++ related 
 build/
+
+# std out/err
+*.out 
+*.err
 
 # Temporary OS files
 .DS_Store
