@@ -12,6 +12,7 @@
 *.npy
 *.npz
 *.gz
+*.tar
 
 # images 
 *.png
